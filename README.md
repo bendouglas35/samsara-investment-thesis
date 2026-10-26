@@ -34,7 +34,3 @@ Open the PDF above or download it for the full charts and source references. Thi
 
 This is a dated research exercise, not a live recommendation. Prices, valuation assumptions and company information are as stated in the September 2026 report. Independent research; not investment advice.
 
-## Report revision - 23 October 2026
-
-The report corrects the legends in Figures 1 and 3, left-aligns all eight risk entries, removes the footer and CV/interview section, and adds ten clickable source links. Further Research on page 11 distinguishes proposed management and customer questions from completed interviews. The research and valuation date remains 15 September 2026; this is a presentation and references revision, not a new valuation.
-
